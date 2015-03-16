@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TcpModule.Test", "TcpModule.Test\TcpModule.Test.vcxproj", "{E9B83661-4A13-408F-A596-29CB885669AA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TcpModule.Net", "TcpModule.Net\TcpModule.Net.vcxproj", "{FCA0B2E4-6419-4430-84E2-4C9B247E657E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9B83661-4A13-408F-A596-29CB885669AA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E9B83661-4A13-408F-A596-29CB885669AA}.Debug|Win32.Build.0 = Debug|Win32
+		{E9B83661-4A13-408F-A596-29CB885669AA}.Release|Win32.ActiveCfg = Release|Win32
+		{E9B83661-4A13-408F-A596-29CB885669AA}.Release|Win32.Build.0 = Release|Win32
+		{FCA0B2E4-6419-4430-84E2-4C9B247E657E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FCA0B2E4-6419-4430-84E2-4C9B247E657E}.Debug|Win32.Build.0 = Debug|Win32
+		{FCA0B2E4-6419-4430-84E2-4C9B247E657E}.Release|Win32.ActiveCfg = Release|Win32
+		{FCA0B2E4-6419-4430-84E2-4C9B247E657E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+LIBRARY "TcpModule.Net.dll"
+
+EXPORTS
+	tnet_init
+	tnet_cleanup
+	tnet_start
+	tnet_stop
+	tnet_connect
+	tnet_send
+	tnet_close
